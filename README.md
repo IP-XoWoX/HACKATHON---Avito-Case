@@ -65,7 +65,7 @@ git clone https://github.com/IP-XoWoX/HACKATHON---Avito-Case
 ```
 Переход в дерикторию:
 ``` bash
-cd Avito
+cd HACKATHON---Avito-Case
 ```
 Установите зависимости:
 ``` bash
