@@ -83,7 +83,7 @@ pip install -r requirements.txt
 - `<метаданные>` - полный путь к CSV-файлу с метаданными
 - `<путь_вывода>` - путь, по которому будет размещен CSV-файл `submission.csv`
 
-Все это можно найти в закрепленном архиве `dataset_colors.zip`
+Датасет можно скачать по ссылке `https://drive.google.com/drive/folders/174v4kI_6i1jn1_mtPBL6tC3Ep9vCHifG?usp=sharing`
 
 ## Использование
 
